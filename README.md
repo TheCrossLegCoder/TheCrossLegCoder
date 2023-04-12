@@ -5,8 +5,8 @@
 </p>
 <br>
 	
-# <img src = "Assets/about_me.gif" width = 50px> **About me**
-<img align="right" src="Assets/Right_Side.gif" width = 300px height= 300px >
+# <img src = "assets/about_me.gif" width = 50px> **About me**
+<img align="right" src="assets/Right_Side.gif" width = 300px height= 300px >
 <br>
 <br>
 
@@ -72,7 +72,7 @@
 <br>
 <br>
 
-## <img src="Assets/handshake.gif" width ="80"> <b> Let's Connect</b>
+## <img src="assets/handshake.gif" width ="80"> <b> Let's Connect</b>
 <br>
 <a href="https://linkedin.com/in/TheCrossLegCoder" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  TheCrossLegCoder-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
